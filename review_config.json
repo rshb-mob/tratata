@@ -1,6 +1,12 @@
 [
 	{
 		"version": "1.0.0+4",
-		"isAppleReviewing": true
+		"isAppleReviewing": true,
+		"isAndroidReviewing": false
+	},
+	{
+		"version": "1.0.0+5",
+		"isAppleReviewing": true,
+		"isAndroidReviewing": true
 	}
 ]
