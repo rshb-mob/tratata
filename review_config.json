@@ -20,7 +20,7 @@
 	{
 		"version": "1.3.0+9",
 		"isAppleReviewing": true,
-		"isAndroidReviewing": false,
+		"isAndroidReviewing": true,
 		"isNewDeposits": false
 	}
 ]
