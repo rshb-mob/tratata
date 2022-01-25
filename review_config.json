@@ -22,5 +22,11 @@
 		"isAppleReviewing": true,
 		"isAndroidReviewing": true,
 		"isNewDeposits": false
+	},
+	{
+		"version": "1.3.5+12",
+		"isAppleReviewing": true,
+		"isAndroidReviewing": true,
+		"isNewDeposits": false
 	}
 ]
