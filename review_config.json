@@ -28,5 +28,11 @@
 		"isAppleReviewing": false,
 		"isAndroidReviewing": true,
 		"isNewDeposits": true
+	},
+	{
+		"version": "1.3.6+13",
+		"isAppleReviewing": false,
+		"isAndroidReviewing": true,
+		"isNewDeposits": true
 	}
 ]
