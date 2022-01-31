@@ -56,7 +56,7 @@
 	{
 		"version": "1.3.9+17",
 		"isAppleReviewing": false,
-		"isAndroidReviewing": true,
+		"isAndroidReviewing": false,
 		"isNewDeposits": false,
 		"reviewStand": "predProd"
 	}
