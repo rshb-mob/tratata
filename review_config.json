@@ -64,7 +64,7 @@
 		"version": "1.3.10+18",
 		"isAppleReviewing": true,
 		"isAndroidReviewing": true,
-		"isNewDeposits": false,
+		"isNewDeposits": true,
 		"reviewStand": "predProd"
 	}
 ]
