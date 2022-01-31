@@ -65,6 +65,6 @@
 		"isAppleReviewing": true,
 		"isAndroidReviewing": true,
 		"isNewDeposits": true,
-		"reviewStand": "predProd"
+		"reviewStand": "prod"
 	}
 ]
