@@ -76,7 +76,7 @@
 	},
 	{
 		"version": "1.3.12+20",
-		"isAppleReviewing": true,
+		"isAppleReviewing": false,
 		"isAndroidReviewing": false,
 		"isNewDeposits": true,
 		"reviewStand": "predProd"
