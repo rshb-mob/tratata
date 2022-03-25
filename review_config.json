@@ -94,5 +94,12 @@
 		"isAndroidReviewing": false,
 		"isNewDeposits": true,
 		"reviewStand": "ift"
+	},
+	{
+		"version": "1.3.17+27",
+		"isAppleReviewing": true,
+		"isAndroidReviewing": true,
+		"isNewDeposits": true,
+		"reviewStand": "predProd"
 	}
 ]
