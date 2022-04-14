@@ -105,21 +105,21 @@
 	{
 		"version": "1.3.18+28",
 		"isAppleReviewing": true,
-		"isAndroidReviewing": true,
+		"isAndroidReviewing": false,
 		"isNewDeposits": true,
 		"reviewStand": "predProd"
 	},
 	{
 		"version": "1.3.18+29",
 		"isAppleReviewing": true,
-		"isAndroidReviewing": true,
+		"isAndroidReviewing": false,
 		"isNewDeposits": true,
 		"reviewStand": "predProd"
 	},
 	{
 		"version": "1.3.18+31",
 		"isAppleReviewing": true,
-		"isAndroidReviewing": true,
+		"isAndroidReviewing": false,
 		"isNewDeposits": true,
 		"reviewStand": "predProd"
 	},
