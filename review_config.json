@@ -164,5 +164,13 @@
 		"isAndroidReviewing": true,
 		"isNewDeposits": true,
 		"reviewStand": "dev"
+	},
+		{
+		"version": "1.3.23+39",
+		"isAppleReviewing": true,
+		"isAndroidReviewing": true,
+		"isHuaweiReviewing": true,
+		"isNewDeposits": true,
+		"reviewStand": "dev"
 	}
 ]
