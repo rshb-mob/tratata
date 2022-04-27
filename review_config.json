@@ -169,7 +169,7 @@
 		"version": "1.3.23+39",
 		"isAppleReviewing": true,
 		"isAndroidReviewing": true,
-		"isHuaweiReviewing": true,
+		"isHuaweiReviewing": false,
 		"isNewDeposits": true,
 		"reviewStand": "dev"
 	}
